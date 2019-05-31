@@ -1,0 +1,9 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.ipynb_checkpoints
+To-do
+
+# Distribution / packaging
+/data
+/tgz
+
